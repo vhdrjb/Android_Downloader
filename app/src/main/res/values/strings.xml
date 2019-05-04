@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Downloader</string>
+    <string name="external_storage_needed">App need external storage permission</string>
+</resources>

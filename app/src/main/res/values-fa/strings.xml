@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="external_storage_needed">برنامه به مجوز دسترسی به حافظه داخلی نیاز دارد</string>
+</resources>
